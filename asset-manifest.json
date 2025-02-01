@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Tejal-Tambe/e-commerce/static/css/main.f9daea91.css",
+    "main.js": "/Tejal-Tambe/e-commerce/static/js/main.28260f19.js",
+    "static/media/LoginBack-ground.jpg": "/Tejal-Tambe/e-commerce/static/media/LoginBack-ground.eb4e0cefb6c098194daa.jpg",
+    "index.html": "/Tejal-Tambe/e-commerce/index.html",
+    "main.f9daea91.css.map": "/Tejal-Tambe/e-commerce/static/css/main.f9daea91.css.map",
+    "main.28260f19.js.map": "/Tejal-Tambe/e-commerce/static/js/main.28260f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9daea91.css",
+    "static/js/main.28260f19.js"
+  ]
+}
