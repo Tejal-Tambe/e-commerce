@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Tejal-Tambe/static/css/main.88a5a80c.css",
-    "main.js": "/Tejal-Tambe/static/js/main.28260f19.js",
-    "static/media/LoginBack-ground.jpg": "/Tejal-Tambe/static/media/LoginBack-ground.eb4e0cefb6c098194daa.jpg",
-    "index.html": "/Tejal-Tambe/index.html",
-    "main.88a5a80c.css.map": "/Tejal-Tambe/static/css/main.88a5a80c.css.map",
-    "main.28260f19.js.map": "/Tejal-Tambe/static/js/main.28260f19.js.map"
+    "main.css": "/e-commerce/static/css/main.877d399b.css",
+    "main.js": "/e-commerce/static/js/main.28260f19.js",
+    "static/media/LoginBack-ground.jpg": "/e-commerce/static/media/LoginBack-ground.eb4e0cefb6c098194daa.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.877d399b.css.map": "/e-commerce/static/css/main.877d399b.css.map",
+    "main.28260f19.js.map": "/e-commerce/static/js/main.28260f19.js.map"
   },
   "entrypoints": [
-    "static/css/main.88a5a80c.css",
+    "static/css/main.877d399b.css",
     "static/js/main.28260f19.js"
   ]
 }
